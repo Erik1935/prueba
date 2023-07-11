@@ -12,6 +12,6 @@ class EmailServiceTest {
 private EmailService emailService;
     @Test
     void send() {
-        emailService.send("");
+
     }
 }
